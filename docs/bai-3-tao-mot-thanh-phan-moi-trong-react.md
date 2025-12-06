@@ -189,10 +189,10 @@ export default App;
 
 ---
 
-## 💡 Tip: Extension hữu ích
+## 💡 Tip: Extensions hữu ích cho React Development
 
-> 🎨 **Prettier - Code formatter**
->
+### 🎨 Prettier - Code formatter
+
 > Extension hỗ trợ tự động format code khi save, giúp code luôn gọn gàng và nhất quán!
 
 | Tính năng               | Mô tả                                    |
@@ -201,7 +201,89 @@ export default App;
 | 📐 **Consistent Style** | Đảm bảo code style nhất quán trong dự án |
 | 🔧 **Dễ cấu hình**      | Tùy chỉnh theo ý muốn qua `.prettierrc`  |
 
-**Cài đặt:** Tìm "Prettier - Code formatter" trong VS Code Extensions
+---
+
+### ⚛️ ES7+ React/Redux/React-Native snippets
+
+> Snippets giúp viết code React nhanh hơn với các shortcut!
+
+| Shortcut    | Kết quả                               |
+| :---------- | :------------------------------------ |
+| `rafce`     | React Arrow Function Component Export |
+| `rfc`       | React Function Component              |
+| `useState`  | useState Hook snippet                 |
+| `useEffect` | useEffect Hook snippet                |
+
+---
+
+### 🔍 ESLint
+
+> Phát hiện lỗi và cảnh báo trong code JavaScript/React
+
+| Tính năng              | Mô tả                         |
+| :--------------------- | :---------------------------- |
+| 🐛 **Error Detection** | Phát hiện lỗi syntax và logic |
+| ⚠️ **Warnings**        | Cảnh báo code không tối ưu    |
+| 🔧 **Auto Fix**        | Tự động sửa một số lỗi        |
+
+---
+
+### 🏷️ Auto Rename Tag
+
+> Tự động đổi tên thẻ đóng khi sửa thẻ mở (và ngược lại)
+
+```jsx
+// Khi sửa <div> thành <section>
+// Thẻ </div> tự động đổi thành </section>
+<section>
+  <h1>Hello</h1>
+</section>
+```
+
+---
+
+### 🌈 Bracket Pair Colorizer (Built-in VS Code)
+
+> Tô màu các cặp ngoặc để dễ nhìn hơn
+
+| Tính năng             | Mô tả                            |
+| :-------------------- | :------------------------------- |
+| 🎨 **Color Matching** | Mỗi cặp ngoặc một màu khác nhau  |
+| 👁️ **Easy Reading**   | Dễ dàng nhận biết scope của code |
+
+---
+
+### 📁 Simple React Snippets
+
+> Snippets đơn giản và nhẹ cho React
+
+| Shortcut | Kết quả                                   |
+| :------- | :---------------------------------------- |
+| `imr`    | `import React from 'react'`               |
+| `imrs`   | `import React, { useState } from 'react'` |
+| `cc`     | Class Component                           |
+| `fc`     | Function Component                        |
+
+---
+
+### 📊 Tổng hợp Extensions nên cài
+
+| Extension                    | Mô tả               | Độ ưu tiên       |
+| :--------------------------- | :------------------ | :--------------- |
+| 🎨 **Prettier**              | Format code tự động | ⭐⭐⭐ Bắt buộc  |
+| ⚛️ **ES7+ React Snippets**   | Snippets cho React  | ⭐⭐⭐ Bắt buộc  |
+| 🔍 **ESLint**                | Phát hiện lỗi       | ⭐⭐⭐ Bắt buộc  |
+| 🏷️ **Auto Rename Tag**       | Đổi tên thẻ tự động | ⭐⭐ Khuyên dùng |
+| 📁 **Simple React Snippets** | Snippets bổ sung    | ⭐ Tùy chọn      |
+
+> 💡 **Tip:** Sau khi cài Prettier, thêm vào `settings.json`:
+>
+> ```json
+> {
+>   "editor.formatOnSave": true,
+>   "editor.defaultFormatter": "esbenp.prettier-vscode"
+> }
+> ```
 
 ---
 

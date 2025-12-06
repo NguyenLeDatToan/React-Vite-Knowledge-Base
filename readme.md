@@ -127,9 +127,27 @@ Sau đó chạy lại:
 npm run dev
 ```
 
-> 🌐 Truy cập bằng IP của máy tính trên cùng mạng WiFi!
+> 🌐 Truy cập bằng IP:PORT của máy tính trên cùng mạng WiFi!
 
-### 3️⃣ Tiếp theo...
+### 3️⃣ Xây dựng cho Sản xuất (Production Build)
+
+> 🏭 _Tạo bản build tối ưu để deploy lên server_
+
+```bash
+# 📦 Build ứng dụng
+npm run build
+```
+
+> ✅ Vite sẽ tạo thư mục `dist/` chứa các file đã được tối ưu hoá
+
+#### 👀 Xem trước bản build
+
+```bash
+# 🔍 Preview bản production
+npm run preview
+```
+
+> 🌐 Server preview chạy tại: **http://localhost:4173/**
 
 ---
 

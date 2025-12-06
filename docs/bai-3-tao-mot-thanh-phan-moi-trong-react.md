@@ -189,6 +189,22 @@ export default App;
 
 ---
 
+## 💡 Tip: Extension hữu ích
+
+> 🎨 **Prettier - Code formatter**
+>
+> Extension hỗ trợ tự động format code khi save, giúp code luôn gọn gàng và nhất quán!
+
+| Tính năng               | Mô tả                                    |
+| :---------------------- | :--------------------------------------- |
+| ⚡ **Auto Format**      | Tự động sắp xếp code khi lưu file        |
+| 📐 **Consistent Style** | Đảm bảo code style nhất quán trong dự án |
+| 🔧 **Dễ cấu hình**      | Tùy chỉnh theo ý muốn qua `.prettierrc`  |
+
+**Cài đặt:** Tìm "Prettier - Code formatter" trong VS Code Extensions
+
+---
+
 <div align="center">
 
 [⬅️ Bài trước: Nguyên lý hoạt động](./bai-2-nguyen-ly-hoat-dong-cu-react-trong-vite.md) | [➡️ Bài tiếp theo](./bai-4-coming-soon.md)

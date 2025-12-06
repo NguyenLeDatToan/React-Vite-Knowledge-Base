@@ -53,7 +53,40 @@
 
 ## 📘 Bài 1: Cài đặt môi trường
 
-> 🛠️ _Hướng dẫn thiết lập môi trường phát triển React với Vite_
+> 🛠️ _Dùng Vite để tạo React App_
+
+### 1️⃣ Khởi tạo môi trường Vite
+
+> 📦 _Vite sẽ làm môi trường cho React App bên trong nó hoạt động_
+
+Chọn một trong các package manager sau:
+
+```bash
+# 📦 npm
+npm create vite@[version]
+
+# 🧶 yarn
+yarn create vite@[version]
+
+# 🚀 pnpm
+pnpm create vite@[version]
+
+# 🍞 bun
+bun create vite@[version]
+```
+
+> 💡 **Ví dụ:** `npm create vite@latest` → Phiên bản mới nhất
+
+### 2️⃣ Trả lời các câu hỏi cấu hình
+
+| ❓ Câu hỏi                                                | ✅ Trả lời                                          |
+| :-------------------------------------------------------- | :-------------------------------------------------- |
+| 📋 Cần gói `create-vite@[version]` có thể tiếp tục không? | Nhập `y`                                            |
+| 📁 Project name                                           | Nhập `[Tên dự án]` của bạn                          |
+| ⚛️ Select a framework                                     | Chọn **React** _(Vì ta đang học React + Vite)_      |
+| 🔧 Select a variant                                       | Chọn theo thế mạnh của bạn _(có thể là JavaScript)_ |
+
+### 3️⃣ Tiếp theo...
 
 ---
 

@@ -192,7 +192,7 @@ function App() {
 
 <div align="center">
 
-[⬅️ Bài trước: Cài đặt môi trường](./bai-1-cai-dat-moi-truong.md) | [➡️ Bài tiếp theo](./bai-3-coming-soon.md)
+[⬅️ Bài trước: Cài đặt môi trường](./bai-1-cai-dat-moi-truong.md) | [➡️ Bài tiếp theo: Tạo Component](./bai-3-tao-mot-thanh-phan-moi-trong-react.md)
 
 [⬅️ Quay lại Mục lục](../readme.md)
 

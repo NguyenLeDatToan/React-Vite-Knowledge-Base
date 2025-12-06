@@ -20,6 +20,12 @@ Tất cả các thay đổi đáng chú ý của dự án sẽ được ghi lạ
   - Hot Module Replacement (HMR)
   - ES Modules Native
   - CSS trong Vite
+- 📘 **Bài 3:** Tạo một thành phần mới trong React (Component)
+  - Component là gì và tại sao cần dùng
+  - Cấu trúc thư mục components
+  - Cách tạo và export component
+  - Import và sử dụng component
+  - Quy tắc đặt tên PascalCase
 
 ### 🎨 Giao diện
 

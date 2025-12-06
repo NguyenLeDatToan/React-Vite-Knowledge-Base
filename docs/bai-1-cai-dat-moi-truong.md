@@ -108,6 +108,6 @@ npm run preview
 
 <div align="center">
 
-[⬅️ Quay lại Mục lục](../readme.md) | [➡️ Bài tiếp theo](./bai-2-coming-soon.md)
+[⬅️ Quay lại Mục lục](../readme.md) | [➡️ Bài tiếp theo: Nguyên lý hoạt động](./bai-2-nguyen-ly-hoat-dong-cu-react-trong-vite.md)
 
 </div>

@@ -14,6 +14,12 @@ Tất cả các thay đổi đáng chú ý của dự án sẽ được ghi lạ
   - Cấu hình port trong `vite.config.js`
   - Hướng dẫn Responsive Testing với `--host`
   - Hướng dẫn Production Build và Preview
+- 📘 **Bài 2:** Nguyên lý hoạt động của React trong Vite
+  - Cấu trúc thư mục dự án
+  - Luồng hoạt động: index.html → main.jsx → App.jsx
+  - Hot Module Replacement (HMR)
+  - ES Modules Native
+  - CSS trong Vite
 
 ### 🎨 Giao diện
 

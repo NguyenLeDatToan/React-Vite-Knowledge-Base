@@ -45,9 +45,10 @@
 
 ## 📚 Mục Lục Bài Học
 
-| STT | 📖 Bài học         | 📝 Mô tả               | 🔗 Link                                          |
-| :-: | :----------------- | :--------------------- | :----------------------------------------------- |
-| 1️⃣  | Cài đặt môi trường | Thiết lập React + Vite | [📘 Xem bài](./docs/bai-1-cai-dat-moi-truong.md) |
+| STT | 📖 Bài học          | 📝 Mô tả                   | 🔗 Link                                                               |
+| :-: | :------------------ | :------------------------- | :-------------------------------------------------------------------- |
+| 1️⃣  | Cài đặt môi trường  | Thiết lập React + Vite     | [📘 Xem bài](./docs/bai-1-cai-dat-moi-truong.md)                      |
+| 2️⃣  | Nguyên lý hoạt động | Cách React chạy trong Vite | [📘 Xem bài](./docs/bai-2-nguyen-ly-hoat-dong-cu-react-trong-vite.md) |
 
 ---
 

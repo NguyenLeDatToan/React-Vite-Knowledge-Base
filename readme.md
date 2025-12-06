@@ -10,6 +10,22 @@
 
 ### 👨‍💻 Người biên soạn: **Toàn Nguyễn**
 
+---
+
+## 📊 Tiến độ khóa học
+
+![Progress](https://img.shields.io/badge/Tiến%20độ-30%25-yellow?style=for-the-badge)
+
+```
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜  3/10 bài học
+```
+
+| Trạng thái    | Số lượng | Chi tiết    |
+| :------------ | :------- | :---------- |
+| ✅ Hoàn thành | 3 bài    | Bài 1, 2, 3 |
+| 🔄 Đang viết  | 0 bài    | -           |
+| 📝 Sắp tới    | 7 bài    | Bài 4 → 10  |
+
 </div>
 
 ---

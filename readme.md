@@ -14,18 +14,29 @@
 
 ## 📊 Tiến độ khóa học
 
-![Progress](https://img.shields.io/badge/Tiến%20độ-2.3%25-red?style=for-the-badge)
-![Total](https://img.shields.io/badge/Tổng%20số-128%20bài-blue?style=for-the-badge)
+<table>
+  <tr>
+    <td>
+      <img src="https://progress-bar.xyz/2/?title=Hoàn%20thành&width=400&color=22c55e" alt="Progress"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>3</b> / <b>128</b> bài học • <b>2.3%</b>
+    </td>
+  </tr>
+</table>
 
-```
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  3/128 bài học
-```
+<details>
+<summary>� <b>Chi tiết tiến độ</b></summary>
 
-| Trạng thái    | Số lượng | Chi tiết    |
-| :------------ | :------- | :---------- |
-| ✅ Hoàn thành | 3 bài    | Bài 1, 2, 3 |
-| 🔄 Đang viết  | 0 bài    | -           |
-| 📝 Sắp tới    | 125 bài  | Bài 4 → 128 |
+| Trạng thái        | Số lượng | Bài học     |
+| :---------------- | :------: | :---------- |
+| ✅ **Hoàn thành** |    3     | Bài 1, 2, 3 |
+| 🔄 **Đang viết**  |    0     | -           |
+| 📝 **Sắp tới**    |   125    | Bài 4 → 128 |
+
+</details>
 
 </div>
 

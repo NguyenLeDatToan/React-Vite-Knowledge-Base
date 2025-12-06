@@ -107,7 +107,27 @@ export default defineConfig({
 });
 ```
 
-- Khi bạn hoàn thành dự án và muốn chạy trên các thiết bị 
+#### 📱 Chạy trên thiết bị thật (Responsive Testing)
+
+> 💡 _Khi muốn test responsive trên các thiết bị thật (điện thoại, tablet,...)_
+
+Thay đổi trong file `package.json`:
+
+```json
+{
+  "scripts": {
+    "dev": "vite --host" // 👈 Thêm --host để mở network access
+  }
+}
+```
+
+Sau đó chạy lại:
+
+```bash
+npm run dev
+```
+
+> 🌐 Truy cập bằng IP của máy tính trên cùng mạng WiFi!
 
 ### 3️⃣ Tiếp theo...
 

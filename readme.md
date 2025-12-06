@@ -77,14 +77,37 @@ bun create vite@[version]
 
 > 💡 **Ví dụ:** `npm create vite@latest` → Phiên bản mới nhất
 
-### 2️⃣ Trả lời các câu hỏi cấu hình
+### 2️⃣ Cài đặt thư viện cần thiết và chạy ứng dụng
 
-| ❓ Câu hỏi                                                | ✅ Trả lời                                          |
-| :-------------------------------------------------------- | :-------------------------------------------------- |
-| 📋 Cần gói `create-vite@[version]` có thể tiếp tục không? | Nhập `y`                                            |
-| 📁 Project name                                           | Nhập `[Tên dự án]` của bạn                          |
-| ⚛️ Select a framework                                     | Chọn **React** _(Vì ta đang học React + Vite)_      |
-| 🔧 Select a variant                                       | Chọn theo thế mạnh của bạn _(có thể là JavaScript)_ |
+```bash
+# 📦 Cài đặt các gói thư viện cần thiết
+npm install
+
+# ▶️ Chạy ứng dụng
+npm run dev
+```
+
+> 💡 _Với những phiên bản mới, Vite đã tự động cài thư viện và chạy ứng dụng sau khi cài đặt rồi!_
+
+#### ✅ Kiểm tra kết quả
+
+- 🌐 Mở trình duyệt và truy cập: **http://localhost:5173/**
+- 🔌 Port mặc định là `5173`, nhưng có thể thay đổi trong `vite.config.js`:
+
+```javascript
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+
+// https://vite.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  server: {
+    port: 11000, // 👈 Thay đổi port tại đây
+  },
+});
+```
+
+- Khi bạn hoàn thành dự án và muốn chạy trên các thiết bị 
 
 ### 3️⃣ Tiếp theo...
 

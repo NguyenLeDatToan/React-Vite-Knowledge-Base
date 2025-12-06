@@ -14,17 +14,18 @@
 
 ## 📊 Tiến độ khóa học
 
-![Progress](https://img.shields.io/badge/Tiến%20độ-30%25-yellow?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Tiến%20độ-2.3%25-red?style=for-the-badge)
+![Total](https://img.shields.io/badge/Tổng%20số-128%20bài-blue?style=for-the-badge)
 
 ```
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜  3/10 bài học
+🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  3/128 bài học
 ```
 
 | Trạng thái    | Số lượng | Chi tiết    |
 | :------------ | :------- | :---------- |
 | ✅ Hoàn thành | 3 bài    | Bài 1, 2, 3 |
 | 🔄 Đang viết  | 0 bài    | -           |
-| 📝 Sắp tới    | 7 bài    | Bài 4 → 10  |
+| 📝 Sắp tới    | 125 bài  | Bài 4 → 128 |
 
 </div>
 
